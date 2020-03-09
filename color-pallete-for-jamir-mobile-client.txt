@@ -1,0 +1,7 @@
+bg: f8f9fa
+bg-pail: bdc1c6
+color: 5f6368
+primary: 3367d6
+primary-dark: 2850a7
+primary-accent: 1a73e8
+primary-pale: 8db9f4
